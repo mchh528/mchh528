@@ -8,7 +8,7 @@ I'm currently working on projects around Web Development.
 - 🌱 I’m learning about Web Development; HTML/CSS and JavaScript. 
 - ⚡ Languages: C, Java, Python, HTML/CSS, MATLAB
 
-- 📫 How to reach me:
-Email: marlon1293@gmail.com
+- 📫 How to reach me:<br>
+Email: marlon1293@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/mchhour/
 
