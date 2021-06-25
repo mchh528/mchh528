@@ -4,8 +4,8 @@ I'm an second year Computer Systems Engineering student at The University of Auc
 
 I'm currently working on projects around Web Development. 
 
-- 👀 I’m interested in Frontend Development, with a focus on UI/UX Design using SASS/CSS, Javascript (React).
-- 🌱 I’m currently learning about Web Development.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning about Web Development (SCSS, Bootstrap, jQuery)
 - ⚡ Languages: Java, C, Python, CSS, Bootstrap
 
 - 📫 How to reach me:<br>
