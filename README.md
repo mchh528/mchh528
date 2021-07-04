@@ -6,7 +6,7 @@ I'm currently working on projects around Web Development.
 
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning about Web Development (SCSS, Bootstrap, jQuery)
-- ⚡ Languages: Java, C, Python, CSS, Bootstrap
+- ⚡ Languages: Java, C, Python, HTML/CSS, Bootstrap
 
 - 📫 How to reach me:<br>
 Email: marlon1293@gmail.com<br>
